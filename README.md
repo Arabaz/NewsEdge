@@ -10,7 +10,6 @@ An iOS news application built using **Swift** with **MVVM architecture**, **Core
 - 🔍 **Search News Articles**
 - 💾 **Offline Caching with Core Data**
 - 📌 **Bookmark/Unbookmark News Articles**
-- 🌗 **Dark/Light Mode Support**
 - 📡 **Public API Integration**
 - 🎯 **MVVM Architecture**
  
@@ -20,7 +19,7 @@ An iOS news application built using **Swift** with **MVVM architecture**, **Core
  
 | Home Screen | Search | Bookmarks |
 |-------------|--------|-----------|
-| __ | _HomeScreen.png_ | SearchScreen.png   | _BookmarksScreen.png_ | _NoBookmarks.png_
+| _HomeScreen.png_ | SearchScreen.png   | _BookmarksScreen.png_ | _NoBookmarks.png_
  
 ---
  
@@ -50,7 +49,7 @@ An iOS news application built using **Swift** with **MVVM architecture**, **Core
  
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/reader-app-ios.git
+   git clone https://github.com/Arabaz/NewsEdge.git
    cd reader-app-ios
 
 
