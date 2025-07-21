@@ -20,7 +20,7 @@ An iOS news application built using **Swift** with **MVVM architecture**, **Core
  
 | Home Screen | Search | Bookmarks |
 |-------------|--------|-----------|
-| _Add screenshots here_ | _Add screenshots here_ | _Add screenshots here_ |
+| __ | _HomeScreen.png_ | SearchScreen.png   | _BookmarksScreen.png_ | _NoBookmarks.png_
  
 ---
  
@@ -52,3 +52,5 @@ An iOS news application built using **Swift** with **MVVM architecture**, **Core
    ```bash
    git clone https://github.com/your-username/reader-app-ios.git
    cd reader-app-ios
+
+
